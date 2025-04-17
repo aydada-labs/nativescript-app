@@ -14,6 +14,10 @@
     "@angular/router": "~19.0.0",
     "@nativescript/angular": "^19.0.0",
     "@nativescript/core": "~8.9.0",
+    "@nativescript/firebase-auth": "^3.3.2",
+    "@nativescript/firebase-core": "^3.3.2",
+    "@nativescript/firebase-firestore": "^3.3.2",
+    "@nativescript/google-maps": "^1.7.5",
     "rxjs": "~7.8.0",
     "zone.js": "~0.15.0"
   },
